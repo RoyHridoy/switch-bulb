@@ -1,8 +1,5 @@
 # Handling reactivity with vue.js 3
 
-# Preview
-
-
 # Icons
 <a target="_blank" href="https://icons8.com/icon/e9V-XJYOmiTY/light-on">Light On</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
